@@ -3,6 +3,7 @@
 .web
 __pycache__/
 assets/external
+.states
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
